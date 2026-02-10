@@ -183,7 +183,7 @@ const Footer = () => {
                             <Twitter className="w-6 h-6 text-gray-600 dark:text-gray-400 group-hover:text-blue-500 transition-colors relative z-10" />
                         </a>
                         <a
-                            href="https://github.com"
+                            href="https://github.com/RoshanAliChhina"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative p-4 rounded-2xl bg-gradient-to-br from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-900 hover:from-gray-500/10 hover:to-gray-600/10 transition-all duration-300 hover:scale-125 active:scale-110 focus:outline-none focus:ring-2 focus:ring-gray-500 shadow-lg hover:shadow-xl hover:shadow-gray-500/20 overflow-hidden"
@@ -193,7 +193,7 @@ const Footer = () => {
                             <Github className="w-6 h-6 text-gray-600 dark:text-gray-400 group-hover:text-gray-500 transition-colors relative z-10" />
                         </a>
                         <a
-                            href="https://linkedin.com"
+                            href="https://www.linkedin.com/in/roshan-ali-770247371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative p-4 rounded-2xl bg-gradient-to-br from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-900 hover:from-blue-700/10 hover:to-blue-800/10 transition-all duration-300 hover:scale-125 active:scale-110 focus:outline-none focus:ring-2 focus:ring-blue-700 shadow-lg hover:shadow-xl hover:shadow-blue-700/20 overflow-hidden"
@@ -203,7 +203,7 @@ const Footer = () => {
                             <Linkedin className="w-6 h-6 text-gray-600 dark:text-gray-400 group-hover:text-blue-700 transition-colors relative z-10" />
                         </a>
                         <a
-                            href="mailto:contact@aitoolshub.com"
+                            href="mailto:roshansenew@gmail.com"
                             className="group relative p-4 rounded-2xl bg-gradient-to-br from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-900 hover:from-accent/10 hover:to-green-600/10 transition-all duration-300 hover:scale-125 active:scale-110 focus:outline-none focus:ring-2 focus:ring-accent shadow-lg hover:shadow-xl hover:shadow-accent/20 overflow-hidden"
                             aria-label="Send us an email"
                         >
