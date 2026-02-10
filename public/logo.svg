@@ -1,0 +1,36 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#43A047"/>
+    </linearGradient>
+  </defs>
+  <!-- Gradient Rounded Background -->
+  <rect width="64" height="64" rx="16" fill="url(#logoGradient)"/>
+  
+  <!-- Main Chip Body -->
+  <rect x="19" y="19" width="26" height="26" rx="4" stroke="white" stroke-width="4"/>
+  
+  <!-- Inner Core -->
+  <rect x="27" y="27" width="10" height="10" rx="1" stroke="white" stroke-width="3"/>
+  
+  <!-- Pins Top -->
+  <path d="M25 19V15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 19V15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M39 19V15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Pins Bottom -->
+  <path d="M25 45V49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 45V49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M39 45V49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Pins Left -->
+  <path d="M19 25H15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M19 32H15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M19 39H15" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Pins Right -->
+  <path d="M45 25H49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M45 32H49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M45 39H49" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</svg>

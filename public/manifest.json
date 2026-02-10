@@ -1,0 +1,37 @@
+{
+  "name": "AI Tools Hub",
+  "short_name": "AI Tools",
+  "description": "Discover and explore the best AI tools for your needs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "business"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Browse Tools",
+      "short_name": "Tools",
+      "description": "Browse all AI tools",
+      "url": "/blog",
+      "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Compare Tools",
+      "short_name": "Compare",
+      "description": "Compare AI tools",
+      "url": "/compare",
+      "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
+
